@@ -172,7 +172,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #6c3c0c;
 }
 .flower__white-circle::after {
   content: "";
@@ -245,7 +245,7 @@ body {
   animation: light-ans 4s linear infinite backwards;
 }
 .flower__light:nth-child(odd) {
-  background-color: #23f0ff;
+  background-color: #008000;
 }
 .flower__light--1 {
   left: -2vmin;

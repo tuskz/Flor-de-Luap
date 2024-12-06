@@ -50,6 +50,7 @@ body {
 .flower--1 .flower__line {
   height: 70vmin;
   animation-delay: 0.3s;
+  background-color: #ffc222;
 }
 .flower--1 .flower__line__leaf--1 {
   animation: blooming-leaf-right var(--fl-speed) 1.6s backwards;

@@ -140,7 +140,7 @@ body {
   width: 8vmin;
   height: 11vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
-  background-color: #000;
+  background-color: #008000;
   background-image: linear-gradient(to top, #54b8aa, #a7ffee);
   transform-origin: bottom center;
   opacity: 0.9;
@@ -172,7 +172,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #6c3c0c;
+  background-color: #ffc222;
 }
 .flower__white-circle::after {
   content: "";
@@ -245,7 +245,7 @@ body {
   animation: light-ans 4s linear infinite backwards;
 }
 .flower__light:nth-child(odd) {
-  background-color: #008000;
+  background-color: #ffc222;
 }
 .flower__light--1 {
   left: -2vmin;
